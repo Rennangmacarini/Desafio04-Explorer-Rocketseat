@@ -29,7 +29,7 @@ Bibliotecas
 ## 💻 Projeto
 <br>
 
-Móveis customizados é uma página institucional no formato One Page, com a finalidade do desafio Explorer administrado pela Rocketseat.
+Projeto seguro é uma página institucional no formato One Page, com a finalidade do desafio Explorer administrado pela Rocketseat.
 Contém as seguintes seções em HTML : nav, main, ul, li, footer, div, id, h1, p, span, strong e br.
 <br><br>
 
